@@ -39,6 +39,33 @@ Combining an analytical **Mechanical Engineering** background with hands-on **QA
 | **Sprint 10** | **Capstone Project** (*Urban Scooter*) | Comprehensive multi-platform QA evaluation: Test Theory, Web App (mind maps & UI testing), Mobile Courier App (Android 17 emulator), REST API validation, and SQL database verification. | Jira, Postman, Android Studio, Draw.io, SQL |
 
 ---
+## 🏆 Capstone Project Spotlight: Sprint 10 — *Urban Scooter* (End-to-End QA Analysis)
+
+For the final capstone project, I conducted a comprehensive multi-platform Quality Assurance evaluation of **Urban Scooter**, covering **Test Theory & SQL**, **Web Application**, **Mobile Courier App (Android 17)**, and **REST API & Database integrity**.
+
+### 📊 Statistical Overview of Test Execution (Tasks 2, 3 & 4)
+
+Across all three testing layers, a total of **341 test checks and test cases** were designed and executed, uncovering **68 distinct defects** logged in Jira (`BAWUS`, `BAMUS`, and `BAPIUS` projects).
+
+| Testing Layer | Environment / Tools | Total Executed | Passed | Failed | Blocked | Pass Rate | Bugs Logged |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Web App — UI & Design** | Chrome `1920x1080`, Opera `1280x720` | 94 | 75 | 19 | 0 | **79.8%** | 19 (`BAWUS`) |
+| **Web App — Data Validation** | Equivalence Classes & Boundary Values | 150 | 135 | 15 | 0 | **90.0%** | 15 (`BAWUS`) |
+| **Mobile Courier App** | Android Studio Emulator (Pixel 7, Android 17) | 55 | 22 | 19 | 14 | **40.0%** | 19 (`BAMUS`) |
+| **REST API & PostgreSQL DB** | Postman, Cygwin CLI, MD5/SQL Verification | 42 | 25 | 17 | 0 | **59.5%** | 17 (`BAPIUS`) |
+| **TOTAL** | **Full-Stack QA Evaluation** | **341** | **257** | **70** | **14** | **75.4%** | **70 Defects** |
+
+---
+
+### 📈 Visual Analytics (GitHub Native Charts)
+
+#### 1. Overall Test Execution Distribution (341 Total Checks)
+```mermaid
+pie title Overall Test Execution Results (Urban Scooter Capstone)
+    "Passed (257)" : 257
+    "Failed (70)" : 70
+    "Blocked (14)" : 14
+---
 
 ## Contact & Links
 * **GitHub:** [github.com/fabianandresng](https://github.com) *(update with your exact profile URL)*
