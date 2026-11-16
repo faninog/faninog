@@ -1,5 +1,6 @@
 ![GitHub Banner](./assets/banner.png)
-# Quality Assurance (QA) Engineering Portfolio
+
+# 👋 Hi there! I'm Fabián Niño 🚀🛠️
 
 [![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-blue.svg)](#)
 [![Manual & Automated Testing](https://img.shields.io/badge/Testing-Manual%20%7C%20API%20%7C%20Automation-success.svg)](#)
