@@ -1,14 +1,15 @@
-![GitHub Banner](./assets/banner.png)
+![Fabián Andrés Niño Gordillo - QA & Mechanical Engineer](./assets/Gemini_Generated_Image_hjc4q7hjc4q7hjc4.jpg)
 
 # 👋 Hi there! I'm Fabián Niño 🚀🛠️
 
 [![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-blue.svg)](#)
+[![Mechanical Engineer](https://img.shields.io/badge/Background-Mechanical%20Engineer-lightgrey.svg)](#)
 [![Manual & Automated Testing](https://img.shields.io/badge/Testing-Manual%20%7C%20API%20%7C%20Automation-success.svg)](#)
 [![Tools](https://img.shields.io/badge/Stack-Postman%20%7C%20Jira%20%7C%20Python%20%7C%20Pytest%20%7C%20SQL%20%7C%20Android%20Studio-orange.svg)](#)
 
 ## Overview
 Welcome to my **Quality Assurance (QA) Engineering Portfolio** — **Fabián Andrés Niño Gordillo**.  
-This repository showcases end-to-end QA testing projects, test documentation, bug reports, and automated test suites developed across 10 intensive sprints (TripleTen QA Engineer Program). It demonstrates hands-on proficiency in functional, UI/UX, mobile, API, database, and automated software testing.
+Combining an analytical **Mechanical Engineering** background with hands-on **QA Engineering** expertise, this repository showcases end-to-end testing projects, test documentation, bug reports, and automated test suites developed across 10 intensive sprints (TripleTen QA Engineer Program).
 
 ---
 
