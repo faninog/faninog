@@ -12,6 +12,11 @@
 Welcome to my **Quality Assurance (QA) Engineering Portfolio** — **Fabián Andrés Niño Gordillo**.  
 Combining an analytical **Mechanical Engineering** background with hands-on **QA Engineering** expertise, this repository showcases end-to-end testing projects, test documentation, bug reports, and automated test suites developed across 10 intensive sprints (TripleTen QA Engineer Program).
 
+### 📫 Contact & Links
+* **GitHub:** [github.com/faninog](https://github.com/faninog)
+* **LinkedIn:** [Fabián Niño](http://www.linkedin.com/in/fabi%C3%A1n-ni%C3%B1o-b1a94875)
+* **Email:** fabianandresng@gmail.com
+
 ---
 
 ## Core Competencies & Tech Stack
@@ -58,12 +63,23 @@ Across all three testing layers, a total of **341 test checks and test cases** w
 
 ---
 
-### 📈 Visual Analytics (GitHub Native Charts)
+### 📈 Visual Analytics (Dark-Mode Optimized Charts)
 
-#### 1. Overall Test Execution Distribution (341 Total Checks)
+#### 1. Overall Test Execution Breakdown (341 Total Checks)
 
 ```mermaid
-pie title Overall Test Execution Results (Urban Scooter Capstone)
-    "Passed (257)" : 257
-    "Failed (70)" : 70
-    "Blocked (14)" : 14
+%%{init: {'theme': 'dark'}}%%
+flowchart LR
+    TOTAL["🧪 Total Executed<br/><b>341 Checks (100%)</b>"]
+    PASSED["✅ Passed<br/><b>257 (75.4%)</b>"]
+    FAILED["❌ Failed / Bugs<br/><b>70 (20.5%)</b>"]
+    BLOCKED["⛔ Blocked<br/><b>14 (4.1%)</b>"]
+
+    TOTAL --> PASSED
+    TOTAL --> FAILED
+    TOTAL --> BLOCKED
+
+    style TOTAL fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#ffffff
+    style PASSED fill:#238636,stroke:#3fb950,stroke-width:2px,color:#ffffff
+    style FAILED fill:#da3633,stroke:#f85149,stroke-width:2px,color:#ffffff
+    style BLOCKED fill:#9e6a03,stroke:#d29922,stroke-width:2px,color:#ffffff
