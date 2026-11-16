@@ -1,3 +1,4 @@
+![GitHub Banner](./assets/banner.png)
 # Quality Assurance (QA) Engineering Portfolio
 
 [![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-blue.svg)](#)
