@@ -1,4 +1,5 @@
-![Fabián Andrés Niño Gordillo - QA & Mechanical Engineer](./assets/Gemini_Generated_Image_hjc4q7hjc4q7hjc4.jpg)
+<img width="3168" height="1344" alt="Gemini_Generated_Image_hjc4q7hjc4q7hjc4" src="https://github.com/user-attachments/assets/49c627c3-e87f-4781-abc1-76593a9169e6" />
+
 
 # 👋 Hi there! I'm Fabián Niño 🚀🛠️
 
